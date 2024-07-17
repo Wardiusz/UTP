@@ -2,7 +2,7 @@
 To repozytorium zawiera moje rozwiązania ćwiczeń dla UTP (Universal Programming Techniques) podczas studiów inżynierskich na [PJATK](https://pja.edu.pl).
 
 ## Spis Treści
-+ [UTP1.1 - Generics](#utp1.1---generics)
++ [UTP1.1 - Generics](#UTP1.1---generics)
 + [UTP1.2 - Ceny przelotów 1](#utp1.2---ceny-przelotów-1)
 + [UTP1.3 - Ceny przelotów 2](#utp1.3---ceny-przelotów-2)
 + [UTP2.1 - Lambda wyrazenia (kompozycja funkcji)](#utp2.1---lambda-wyrażenia---kompozycja-funkcji)

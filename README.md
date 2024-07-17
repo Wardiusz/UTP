@@ -2,20 +2,20 @@
 To repozytorium zawiera moje rozwiązania ćwiczeń dla UTP (Universal Programming Techniques) podczas studiów inżynierskich na [PJATK](https://pja.edu.pl).
 
 ## Spis Treści
-+ [UTP1.1 - Generics](#UTP1.1---generics)
-+ [UTP1.2 - Ceny przelotów 1](#utp1.2---ceny-przelotów-1)
-+ [UTP1.3 - Ceny przelotów 2](#utp1.3---ceny-przelotów-2)
-+ [UTP2.1 - Lambda wyrazenia (kompozycja funkcji)](#utp2.1---lambda-wyrażenia---kompozycja-funkcji)
-+ [UTP2.2 - Klasa Maybe](#utp2.2---klasa-maybe)
-+ [UTP3.1 - Klienci](#utp3.1---klienci)
-+ [UTP3.2 - Programmers](#utp3.2---programmers)
-+ [UTP3.3- Dodatkowe operacje na listach (XList)](#utp3.3---dodatkowe-operacje-na-listach)
-+ [UTP4.1 - WalkFtree A](#utp4.1---walkftree-a)
-+ [UTP4.2 - Zliczanie instrukcji i napisu](#utp4.2---zliczanie-instrukcji-i-napisu)
-+ [UTP4.3 - AnagramsStream](#utp4.3---anagramsstream)
-+ [UTP5.1 - Uruchamianie i zatrzymywanie równoległego działania kodów](#utp5.1---uruchamianie-i-zatrzymywanie-równoległego-działania-kodów)
-+ [UTP5.2 - ](#utp5.2)
-+ [UTP5.3 - ](#utp5.3)
++ [UTP1.1 - Generics](#utp11---generics)
++ [UTP1.2 - Ceny przelotów 1](#utp12---ceny-przelotów-1)
++ [UTP1.3 - Ceny przelotów 2](#utp13---ceny-przelotów-2)
++ [UTP2.1 - Lambda wyrazenia (kompozycja funkcji)](#utp21---lambda-wyrażenia---kompozycja-funkcji)
++ [UTP2.2 - Klasa Maybe](#utp22---klasa-maybe)
++ [UTP3.1 - Klienci](#utp31---klienci)
++ [UTP3.2 - Programmers](#utp32---programmers)
++ [UTP3.3- Dodatkowe operacje na listach (XList)](#utp33---dodatkowe-operacje-na-listach)
++ [UTP4.1 - WalkFtree A](#utp41---walkftree-a)
++ [UTP4.2 - Zliczanie instrukcji i napisu](#utp42---zliczanie-instrukcji-i-napisu)
++ [UTP4.3 - AnagramsStream](#utp43---anagramsstream)
++ [UTP5.1 - Uruchamianie i zatrzymywanie równoległego działania kodów](#utp51---uruchamianie-i-zatrzymywanie-równoległego-działania-kodów)
++ [UTP5.2 - ](#utp52)
++ [UTP5.3 - ](#utp53)
 ---
 
 ## UTP1.1 - Generics

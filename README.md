@@ -2,20 +2,20 @@
 To repozytorium zawiera moje rozwiązania ćwiczeń dla UTP (Universal Programming Techniques) podczas studiów inżynierskich na [PJATK](https://pja.edu.pl).
 
 ## Spis Treści
-+ [Zadanie 1 - Generics](#zadanie-1---generics)
-+ [Zadanie 2 - Ceny przelotów 1](#zadanie-2---ceny-przelotów-1)
-+ [Zadanie 3 - Ceny przelotów 2](#zadanie-3---ceny-przelotów-2)
-+ [Zadanie 4 - Lambda wyrazenia (kompozycja funkcji)](#zadanie-4---lambda-wyrażenia---kompozycja-funkcji)
-+ [Zadanie 5 - Klasa Maybe](#zadanie-5---klasa-maybe)
-+ [Zadanie 6 - Klienci](#zadanie-6---klienci)
-+ [Zadanie 7 - Programmers](#zadanie-7---programmers)
-+ [Zadanie 8 - Dodatkowe operacje na listach (XList)](#zadanie-8---dodatkowe-operacje-na-listach)
-+ [Zadanie 9 - WalkFtree A](#zadanie-9---walkftree-a)
-+ [Zadanie 10 - Zliczanie instrukcji i napisu](#zadanie-10---zliczanie-instrukcji-i-napisu)
-+ [Zadanie 11 - AnagramsStream](#zadanie-11---anagramsstream)
-+ [Zadanie 12 - Uruchamianie i zatrzymywanie równoległego działania kodów](#zadanie-12---uruchamianie-i-zatrzymywanie-równoległego-działania-kodów)
-+ [Zadanie 13 - ](#zadanie-13)
-+ [Zadanie 14 - ](#zadanie-14)
++ [Zadanie 1 - Generics - UTP1.1](#zadanie-1---generics)
++ [Zadanie 2 - Ceny przelotów 1 - UTP1.2](#zadanie-2---ceny-przelotów-1)
++ [Zadanie 3 - Ceny przelotów 2 - UTP1.3](#zadanie-3---ceny-przelotów-2)
++ [Zadanie 4 - Lambda wyrazenia (kompozycja funkcji) - UTP2.1](#zadanie-4---lambda-wyrażenia---kompozycja-funkcji)
++ [Zadanie 5 - Klasa Maybe - UTP2.2](#zadanie-5---klasa-maybe)
++ [Zadanie 6 - Klienci - UTP3.1](#zadanie-6---klienci)
++ [Zadanie 7 - Programmers - UTP3.2](#zadanie-7---programmers)
++ [Zadanie 8 - Dodatkowe operacje na listach (XList) - UTP3.3](#zadanie-8---dodatkowe-operacje-na-listach)
++ [Zadanie 9 - WalkFtree A - UTP4.1](#zadanie-9---walkftree-a)
++ [Zadanie 10 - Zliczanie instrukcji i napisu - UTP4.2](#zadanie-10---zliczanie-instrukcji-i-napisu)
++ [Zadanie 11 - AnagramsStream - UTP4.3](#zadanie-11---anagramsstream)
++ [Zadanie 12 - Uruchamianie i zatrzymywanie równoległego działania kodów - UTP5.1](#zadanie-12---uruchamianie-i-zatrzymywanie-równoległego-działania-kodów)
++ [Zadanie 13 - - - UTP5.2](#zadanie-13)
++ [Zadanie 14 - - - UTP5.3](#zadanie-14)
 ---
 
 ## Zadanie 1 - Generics

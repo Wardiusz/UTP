@@ -14,7 +14,7 @@ To repozytorium zawiera moje rozwiązania ćwiczeń dla UTP (Universal Programmi
 + [UTP4.2 - Zliczanie instrukcji i napisu](#utp42---zliczanie-instrukcji-i-napisu)
 + [UTP4.3 - AnagramsStream](#utp43---anagramsstream)
 + [UTP5.1 - Uruchamianie i zatrzymywanie równoległego działania kodów](#utp51---uruchamianie-i-zatrzymywanie-równoległego-działania-kodów)
-+ [UTP5.2 - ](#utp52)
++ [UTP5.2 - TaskList](#utp52---tasklist)
 + [UTP5.3 - ](#utp53)
 ---
 
@@ -952,7 +952,7 @@ Uwagi:
 * Nie wolno uzywac metody System.exit(...)
 * W tym zadaniu nie należy stosować Executor/ExceutorService
 
-## UTP5.2
+## UTP5.2 - TaskList
 Napisać program, w którym uruchamiane zadania pokazywane są na liście javax.swing.JList. Zadania z listy możemy odpytywac o ich stan, anulować, pokazywac ich wyniki, gdy są gotowe itp.
 Zadania winny być realziowane jako Future.
 

@@ -2,23 +2,23 @@
 To repozytorium zawiera moje rozwiązania ćwiczeń dla UTP (Universal Programming Techniques) podczas studiów inżynierskich na [PJATK](https://pja.edu.pl).
 
 ## Spis Treści
-+ [Zadanie 1 - Generics - UTP1.1](#zadanie-1---generics)
-+ [Zadanie 2 - Ceny przelotów 1 - UTP1.2](#zadanie-2---ceny-przelotów-1)
-+ [Zadanie 3 - Ceny przelotów 2 - UTP1.3](#zadanie-3---ceny-przelotów-2)
-+ [Zadanie 4 - Lambda wyrazenia (kompozycja funkcji) - UTP2.1](#zadanie-4---lambda-wyrażenia---kompozycja-funkcji)
-+ [Zadanie 5 - Klasa Maybe - UTP2.2](#zadanie-5---klasa-maybe)
-+ [Zadanie 6 - Klienci - UTP3.1](#zadanie-6---klienci)
-+ [Zadanie 7 - Programmers - UTP3.2](#zadanie-7---programmers)
-+ [Zadanie 8 - Dodatkowe operacje na listach (XList) - UTP3.3](#zadanie-8---dodatkowe-operacje-na-listach)
-+ [Zadanie 9 - WalkFtree A - UTP4.1](#zadanie-9---walkftree-a)
-+ [Zadanie 10 - Zliczanie instrukcji i napisu - UTP4.2](#zadanie-10---zliczanie-instrukcji-i-napisu)
-+ [Zadanie 11 - AnagramsStream - UTP4.3](#zadanie-11---anagramsstream)
-+ [Zadanie 12 - Uruchamianie i zatrzymywanie równoległego działania kodów - UTP5.1](#zadanie-12---uruchamianie-i-zatrzymywanie-równoległego-działania-kodów)
-+ [Zadanie 13 - - - UTP5.2](#zadanie-13)
-+ [Zadanie 14 - - - UTP5.3](#zadanie-14)
++ [UTP1.1 - Generics](#utp1.1---generics)
++ [UTP1.2 - Ceny przelotów 1](#utp1.2---ceny-przelotów-1)
++ [UTP1.3 - Ceny przelotów 2](#utp1.3---ceny-przelotów-2)
++ [UTP2.1 - Lambda wyrazenia (kompozycja funkcji)](#utp2.1---lambda-wyrażenia---kompozycja-funkcji)
++ [UTP2.2 - Klasa Maybe](#utp2.2---klasa-maybe)
++ [UTP3.1 - Klienci](#utp3.1---klienci)
++ [UTP3.2 - Programmers](#utp3.2---programmers)
++ [UTP3.3- Dodatkowe operacje na listach (XList)](#utp3.3---dodatkowe-operacje-na-listach)
++ [UTP4.1 - WalkFtree A](#utp4.1---walkftree-a)
++ [UTP4.2 - Zliczanie instrukcji i napisu](#utp4.2---zliczanie-instrukcji-i-napisu)
++ [UTP4.3 - AnagramsStream](#utp4.3---anagramsstream)
++ [UTP5.1 - Uruchamianie i zatrzymywanie równoległego działania kodów](#utp5.1---uruchamianie-i-zatrzymywanie-równoległego-działania-kodów)
++ [UTP5.2 - ](#utp5.2)
++ [UTP5.3 - ](#utp5.3)
 ---
 
-## Zadanie 1 - Generics
+## UTP1.1 - Generics
 
 Stworzyć sparametryzowane interfejsy:
 + Selector - z metodą select, zwracającą true jesli argument spełnia warunek zapisany w metodzoe i false w przeciwnym razie
@@ -78,7 +78,7 @@ Gdy w metodzie test2  selektor wybiera z listy napisy, których długiość jest
 ```[14, 17]```
 Należy obowiązkowo zapewnić takie właśnie działanie programu..
 
-## Zadanie 2 - Ceny przelotów 1
+## UTP1.2 - Ceny przelotów 1
 
 Lista dest zawiera informacje o cenach przelotów w postaci napisów:
 
@@ -145,7 +145,7 @@ to HKT - price in PLN:	4300
 ```
 Postać wydruku jest obowiązkowa.
 
-## Zadanie 3 - Ceny przelotów 2
+## UTP1.3 - Ceny przelotów 2
 
 Lista dest zawiera informacje o cenach przelotów w postaci napisów:
 ```port_wylotu port_przylotu cena_w_EUR```
@@ -186,7 +186,7 @@ to DPS - price in PLN:	8600
 to HKT - price in PLN:	4300
 ```
 
-## Zadanie 4 - Lambda-wyrażenia - kompozycja funkcji
+## UTP2.1 - Lambda-wyrażenia - kompozycja funkcji
 
 
 Zbudować klasę InputConverter, która pozwala przekształcić dane wejściowe (ustalane w konstruktorze klasy) za pomocą funkcji, podanych jako argumenty metody convertBy.
@@ -269,7 +269,7 @@ Cars:- Fiat: 15, Ford: 20- Opel: 8, Mitsubishi: 10
 
 Uwaga: w klasie InputConverter musi występować tylko jedna metoda o nazwie convertBy (czyli w tym zadaniu nie dopuszczamy przeciążania metody convertBy).
 
-## Zadanie 5 - Klasa Maybe
+## UTP2.2 - Klasa Maybe
 
 Zdefiniować klasę Maybe o następujących właściwościach.
 
@@ -379,7 +379,7 @@ Klasę Maybe przetestować na przykładzie następującej klasy Main:
         */
 ```
 
-## Zadanie 6 - Klienci
+## UTP3.1 - Klienci
 
 W pliku customers.txt umieszczonym w katalogu {user.home} znajdują się dane o zakupach klientów w postaci:
 
@@ -479,7 +479,7 @@ Np. jeśli identyfikatorem użytkownika jest Janek, to w Windows 7 katalog {user
 
 Należy samodzielnie utworzyć testowy plikii umieścić je w katalogu {user.home}.
 
-## Zadanie 7 - Programmers
+## UTP3.2 - Programmers
 
 Firma software'owa prowadzi projekty w różnych językach programowania.
 Plik Prpgrammers.tsv z katalogu {user.home} zawiera informacje o programistach w postaci:
@@ -658,7 +658,7 @@ Ważne uwagi:
 
 * w klasie ProgLang  nie wolno używac surowych typów.
 
-## Zadanie 8 - Dodatkowe operacje na listach
+## UTP3.3 - Dodatkowe operacje na listach
 
 Stworzyć klasę XList, dostarczającą dodatkowych możliwości tworzenia list i operowania na nich.
 W klasie powinny znaleźć się odpowiednie konstruktory oraz statyczne metody of, umożliwiające tworzenie obiektów XList z innych kolekcji, tablic oraz argumentów podawanych przez przecinki.
@@ -807,7 +807,7 @@ a-X-1 b-X-1 a-Y-1 b-Y-1 a-Z-1 b-Z-1 a-X-2 b-X-2 a-Y-2 b-Y-2 a-Z-2 b-Z-2
 [16, 22, 60, 8]
 ```
 
-## Zadanie 9 - WalkFtree A
+## UTP4.1 - WalkFtree A
 
 Katalog `{user.home}/UTP6dir`  zawiera pliki tekstowe (z rozszerzeniem .txt) umieszczone w różnych podkatalogach. Kodowanie plików to Cp1250. 
 Przeglądając rekursywnie drzewo katalogowe, zaczynające się od `{user.home}/UTP6dir`,  wczytać wszystkie te pliki. i połączoną ich zawartość zapisać do pliku o nazwie UTP6res.txt, znadującym się w katalogu projektu. Kodowanie pliku 
@@ -834,7 +834,7 @@ oczywiście, nazwa katalogu i pliku oraz ich położenie są obowiązkowe,
 nalezy zalożyć, że na starcie programu  wynikowego pliku nie ma.
 
 
-## Zadanie 10 - Zliczanie instrukcji i napisu
+## UTP4.2 - Zliczanie instrukcji i napisu
 
 Napisać program, który wczytuje plik o nazwie "Test.java" z katalogu {user.home} z kodem źródłowym Javy (poprawnym, czyli kompilującym się bez błędów) i wyszukuje w nim instrukcje if oraz napisy "wariant". Wyniki dzialania programu w postaci:
 
@@ -868,7 +868,7 @@ Uwagi:
 Pomoc:
 * Instrukcja if ma swoje wymagania składniowe (ale zakładamy, że program jest poprawny). Nie jest instrukcją if coś co tak wygląda, ale jest umieszczone w komentarzu lub w literale napisowym.
 
-## Zadanie 11 - AnagramsStream
+## UTP4.3 - AnagramsStream
 
 Na liście słów z http://wiki.puzzlers.org/pub/wordlists/unixdict.txt znaleźć wszystkie anagramy.
 Wypisać słowa z maksymalną liczbą anagramów oraz wszystkie ich anagramy w postaci:
@@ -877,7 +877,7 @@ Wypisać słowa z maksymalną liczbą anagramów oraz wszystkie ich anagramy w p
 
 Program ma być bardzo krótki , dzięki zastosowaniu przetwarzania strumieniowego (java.util.stream).
 
-## Zadanie 12 - Uruchamianie i zatrzymywanie równoległego działania kodów
+## UTP5.1 - Uruchamianie i zatrzymywanie równoległego działania kodów
 
 Zbudować klasę StringTask, symulująca długotrwałe obliczenia, tu polegające na konkatenacji napisow.
 Konstruktor klasy otrzymuje jako argument napis do powielenia oraz liczbę oznaczającą ile razy ten napis ma być powielony.
@@ -952,8 +952,8 @@ Uwagi:
 * Nie wolno uzywac metody System.exit(...)
 * W tym zadaniu nie należy stosować Executor/ExceutorService
 
-## Zadanie 13
+## UTP5.2
 Treści nie pamiętam ale coś na zasadzie 12 zadania tylko przy użyciu Swing'a.
 
-## Zadanie 14
+## UTP5.3
 
